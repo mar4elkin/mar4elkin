@@ -1,16 +1,59 @@
-### Hi there 👋
+# Привет, меня зовут Марк
+web development average enjoyer, но больше по backend'у.
+Пишу на python, js и к сожалению на php. Иногда пробую другие языки. Ненавижу java'у. Также развлекаюсь с фигмой и css.
 
-<!--
-**mar4elkin/mar4elkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Проекты которые я хочу доделать
 
-Here are some ideas to get you started:
+- LamiaChan 
+  -  Сайт с мангой - комиксами
+  -  python django / vue js
+- BerryBush
+  - Умный дом
+  - java 
+- SpotifyAlarm
+  - Умный будильник
+  - python 
+- MathProj
+  - Сервис для изучения математики
+  - python django / vue js
+  
+## Технологии
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python ⭐⭐⭐⭐
+  - Django
+  - Django Rest Framework
+  - flask
+  - peewee
+  - selenium / bf4
+  - и многое другое все не вспомню 
+- JavaScript ⭐⭐⭐
+  - yarn / npm
+  - typescript 
+- html/css ⭐⭐
+  - bootstrap
+  - flexbox
+  - grid   
+- JavaScript Frontend ⭐⭐⭐
+  - React / React Native (router, redux не понравилось...)
+  - Vuejs (vuex, router etc...)
+  - jQuery о боже да
+- JavaScript Backend ⭐⭐⭐
+  - express
+  - socket io
+  - sequelize
+- Linux ⭐⭐
+  - nginx / apache
+  - bash
+  - docker
+  - teamcity
+- php ⭐⭐⭐⭐
+  - laravel
+  - bitrix (нет, нет, нет, но судьба сложилась по другому)
+  - composer  
+- sql ⭐⭐
+  - mysql
+  - sqlite
+  - postgres  
+
+Возможно не все вспомнил.
+  
