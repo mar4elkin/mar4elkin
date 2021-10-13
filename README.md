@@ -61,4 +61,7 @@ web development average enjoyer, но больше по backend'у.
   - gitlab ci/cd + локально разворачивал  
 
 Возможно не все вспомнил.
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mar4elkin&theme=blue-green)
+
   
