@@ -4,16 +4,16 @@ web development average enjoyer, но больше по backend'у.
 
 ## Проекты которые я хочу доделать
 
-- LamiaChan 
+- LamiaChan 🐍
   -  Сайт с мангой - комиксами
   -  python django / vue js
-- BerryBush
+- BerryBush 🏘️
   - Умный дом
   - java 
-- SpotifyAlarm
+- SpotifyAlarm 🎵
   - Умный будильник
   - python 
-- MathProj
+- MathProj ➕
   - Сервис для изучения математики
   - python django / vue js
   
@@ -46,7 +46,7 @@ web development average enjoyer, но больше по backend'у.
   - bash
   - docker
   - teamcity
-- php ⭐⭐⭐⭐
+- php ⭐⭐⭐
   - laravel
   - bitrix (нет, нет, нет, но судьба сложилась по другому)
   - composer  
@@ -54,6 +54,8 @@ web development average enjoyer, но больше по backend'у.
   - mysql
   - sqlite
   - postgres  
+- git (вау) ⭐⭐⭐
+  - gitlab ci/cd + локально разворачивал  
 
 Возможно не все вспомнил.
   
