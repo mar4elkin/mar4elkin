@@ -2,7 +2,7 @@
 web development average enjoyer, но больше по backend'у.
 Пишу на python, js и к сожалению на php. Иногда пробую другие языки. Ненавижу java'у. Также развлекаюсь с фигмой и css.
 
-Мои любимые: ruby, lua, python иногда js. 
+Мои любимые: ruby, lua, python, js и php когда это laravel. 
 Иногда есть дикое желание пописать на c++ go или rust.
 
 ## Проекты которые я хочу доделать
