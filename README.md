@@ -49,7 +49,7 @@ web development average enjoyer, но больше по backend'у.
   - bash
   - docker
   - teamcity
-- php ⭐⭐⭐
+- php ⭐⭐⭐![Kappa](https://git.io/Kappa)
   - laravel
   - bitrix (нет, нет, нет, но судьба сложилась по другому)
   - composer  
@@ -62,6 +62,5 @@ web development average enjoyer, но больше по backend'у.
 
 Возможно не все вспомнил.
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mar4elkin&theme=blue-green)
+[![wakatime](https://wakatime.com/badge/user/656e783d-2e25-40a0-a532-e0dd04e1a811.svg)](https://wakatime.com/@656e783d-2e25-40a0-a532-e0dd04e1a811)
 
-  
