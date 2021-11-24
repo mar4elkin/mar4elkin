@@ -12,7 +12,6 @@ web development average enjoyer, но больше по backend'у.
   -  python django / vue js
 - BerryBush 🏘️
   - Умный дом
-  - java 
 - SpotifyAlarm 🎵
   - Умный будильник
   - python 
