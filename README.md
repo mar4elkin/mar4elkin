@@ -12,7 +12,7 @@ web development average enjoyer, но больше по backend'у.
   -  python django / vue js
 - MathProj ➕
   - Сервис для изучения математики
-  - python django / vue js
+  - python django / react js
   
 ## Основные Технологии
 
